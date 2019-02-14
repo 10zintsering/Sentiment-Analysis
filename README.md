@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment analysis on twitter data using IBM Watson NLU service.
+Sentiment analysis on unstructural data using IBM Watson NLU service.
